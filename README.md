@@ -29,7 +29,7 @@ Email: ahmed.osama.barghash@gmail.com
 
 **Android Development**: Android SDK,iOS Framework, Jetpack Compose, swift, Android Architecture Components (ViewModel, LiveData, Room, Modularization, clean architecture, MVVM, MVI, MVP, Hilt, Retrofit, and Kotlin. etc.)
 
-**Tools & Libraries**: Retrofit, Dagger/Hilt, Koin, Glide/Picasso, Firebase, Room
+**Tools & Libraries**: Retrofit, Dagger/Hilt, Koin, Glide/Picasso, Firebase, Room,Poeditor , Zeplin
 
 
 **Testing**: JUnit, Espresso, XCUITEST, Cucumber,Gherkin, BDD
