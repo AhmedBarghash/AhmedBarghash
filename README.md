@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Android Developer with over 6 years of experience building high-quality mobile applications. Throughout my career, I have contributed to the design and development of mobile applications for multinational companies and diverse clients. 
+I'm a passionate Android Developer with over 7 years of experience building high-quality mobile applications. Throughout my career, I have contributed to the design and development of mobile applications for multinational companies and diverse clients. 
 
 My expertise includes leading development teams, creating proof-of-concepts (POCs), and delivering enterprise applications using best practices in Android development.
 
@@ -12,7 +12,7 @@ I specialize in creating intuitive and engaging user experiences and am always k
 My skills include modularization, clean architecture, and leveraging modern frameworks and tools like Jetpack Compose, Kotlin, Java, XML, MVVM, Hilt, and Retrofit.
 
 
-🔭 I’m currently working on [VOIS](https://www.vodafone.com/careers/professional-career-areas/shared-services) | EX [Incorta](https://www.incorta.com) 
+🔭 I’m currently working on Luxoft | EX [VOIS](https://www.vodafone.com/careers/professional-career-areas/shared-services) | EX [Incorta](https://www.incorta.com) 
 
 
 🌱 I'm currently learning Android UI testing with Cucumber in the Mobile Field and have started to work on Spring Boot for backend development.
