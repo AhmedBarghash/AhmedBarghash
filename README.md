@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Android Developer with over 7 years of experience building high-quality mobile applications. Throughout my career, I have contributed to the design and development of mobile applications for multinational companies and diverse clients. 
+I'm a passionate Android Developer with over 8 years of experience building high-quality mobile applications. Throughout my career, I have contributed to the design and development of mobile applications for multinational companies and diverse clients. 
 
 My expertise includes leading development teams, creating proof-of-concepts (POCs), and delivering enterprise applications using best practices in Android development.
 
@@ -12,7 +12,7 @@ I specialize in creating intuitive and engaging user experiences and am always k
 My skills include modularization, clean architecture, and leveraging modern frameworks and tools like Jetpack Compose, Kotlin, Java, XML, MVVM, Hilt, and Retrofit.
 
 
-🔭 I’m currently working on Luxoft | EX [VOIS](https://www.vodafone.com/careers/professional-career-areas/shared-services) | EX [Incorta](https://www.incorta.com) 
+🔭 I’m currently working on [DXC-Luxoft](https://www.luxoft.com/) | EX [VOIS](https://www.vodafone.com/careers/professional-career-areas/shared-services) | EX [Incorta](https://www.incorta.com) 
 
 
 🌱 I'm currently learning Android UI testing with Cucumber in the Mobile Field and have started to work on Spring Boot for backend development.
@@ -38,6 +38,21 @@ Email: ahmed.osama.barghash@gmail.com
 
 
 ## 💼 Projects
+
+### [Goalngo](https://play.google.com/store/apps/details?id=com.goalngo_tech.goalngo&pcampaignid=web_share)
+
+![Goalngo](https://scontent-hbe1-2.xx.fbcdn.net/v/t39.30808-6/489227034_659537270237610_2981198097064744034_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=EluihBI-B2YQ7kNvwGnKmN9&_nc_oc=AdmoI-Kdnena8iovAPrXe24HKVNCZVJ9P3CbRxZzcW9QEgl9ORa_2trtyI_zBUqZ2gQ&_nc_zt=23&_nc_ht=scontent-hbe1-2.xx&_nc_gid=cP4VbtPze_BRyS91tFjY4g&oh=00_AfUNsdj0aNCJ5nq5AqEpn0gcc7ZhK-glZ-Xujc7LBaGPaQ&oe=68B9D391)
+
+Goalngo is a one-stop shop marketplace for soccer individuals and entities where players, fans, scouts, agents, and coaches connect, share their professional profiles, and interact around soccer activities and content.
+
+#### Technologies Used: 
+- Developed, architected, and created an android using best practices such as Modularization, clean architecture, MVVM, MVI, Jetpack Compose, Hilt, Retrofit, and Kotlin. 
+- Collaborated with business teams to estimate the feasibility and complexity of new products/features.
+
+#### Responsibilities: 
+- Took ownership of maintaining and improving the existing application on the Play Store.
+- Act as a Team Lead and provide a revamp plan for the Android version of the product, as there was a lot of Legacy code 
+- Maintain the project and add a new feature in a new structure. We add a side fix for the bug in the old and Legacy code.
 
 ### [Insta+](https://play.google.com/store/apps/details?id=com.subsbase.android.instaplus)
 
